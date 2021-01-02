@@ -1,0 +1,17 @@
+p{
+    font: menu;
+}
+.titel {
+    font-family: "Comic Sans MS";
+}
+.all{
+    background-color: limegreen;
+}
+.form1{
+    font-family: Lemon;
+    background-color: greenyellow;
+}
+.submit{
+    font-family: Orbitron;
+    color: blue;
+}
